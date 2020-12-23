@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/issm13?si=fLSWton6RRaReJYcMbcc_A
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="issh spotify playing" width="350" />](https://open.spotify.com/user/issm13?si=fLSWton6RRaReJYcMbcc_A)
 
 <!--
 **iissh/iissh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
