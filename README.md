@@ -1,6 +1,6 @@
 <img src="head.gif"> <img src="head.gif">
 
-### 🌸 Hi there 🌸
+### 🌸 Hi there, I'm Isshana 🌸
 
 ### About Me
 - 💻 Web and Software Developer
