@@ -1,5 +1,6 @@
-### Hi there 👋
 <img src="head.gif"> <img src="head.gif">
+
+### Hi there 🌸🌸🌸
 ### Spotify Playing 🎧
 <img src="https://now-playing-spotify-ecru.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />
 
