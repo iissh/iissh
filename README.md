@@ -2,7 +2,8 @@
 
 
 ### Spotify Playing 🎧
-[<img src="https://nowplaying-iissh.vercel.app/api/spotify-playing" alt="iissh Now Playing" width="350" />]
+[<img src="https://nowplaying-iissh-k4og2vlh3.vercel.app/api/spotify-playing" alt="iissh Now Playing" width="350" />]
+
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />]
 <!--
 **iissh/iissh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
