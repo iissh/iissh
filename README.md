@@ -16,10 +16,9 @@
 <img src="https://now-playing-spotify-ecru.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />
 
 ### Connect with me:
-[<img src="nowplaying-iissh.vercel.app/api/spotify-playing" alt="iissh Now Playing" width="350" />](https://open.spotify.com/user/issm13?si=fLSWton6RRaReJYcMbcc_A)
 <img align="left" alt="iissh.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> 
-<img align="left" alt="issh | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> (https://twitter.com/xxissh)
-<img align="left" alt="issh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img align="left" alt="issh | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> 
+[<img align="left" alt="issh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/xxissh)
 <img align="left" alt="issh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 <img align="left" alt="issh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 <br />
