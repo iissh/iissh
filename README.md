@@ -4,7 +4,7 @@
 
 ### About Me
 - 💻 Web and Software Developer
-- 🎓 Studying Computer Science at The University of Waterloo, class 2025
+- 🎓 Studying Computer Science at The University of Waterloo (class 2025)
 
 ### What I'm Up To
 - 🌱 I’m currently learning everything 
