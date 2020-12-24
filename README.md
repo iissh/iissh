@@ -1,4 +1,4 @@
-<img src="head.gif"> <img src="head.gif">
+<img src="head.gif"> 
 
 ### 🌸 Hi there, I'm Isshana 🌸
 
