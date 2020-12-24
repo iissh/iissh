@@ -2,7 +2,7 @@
 
 
 ### Spotify Playing 🎧
-[<img src="https://nowplaying-iissh-k4og2vlh3.vercel.app/api/spotify-playing" alt="iissh Now Playing" width="350" />]
+[<img src="https://nowplaying-iissh.iissh.vercel.app/api/spotify-playing" alt="iissh Now Playing" width="350" />]
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />]
 <!--
