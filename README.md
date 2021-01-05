@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="head.gif"><img src="head.gif"> 
+  <img src="head.gif">
 </p>
 ### 🌸 Hi there, I'm Isshana 🌸
 
