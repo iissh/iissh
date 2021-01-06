@@ -17,6 +17,8 @@
 ### 🎧 I'm Listening to 🎧
 <img src="https://now-playing-spotify-ecru.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />
 
+[![iissh's github stats](https://github-readme-stats.vercel.app/api?username=iissh)](https://github.com/iissh/github-readme-stats) 
+
 ### Connect with me:
 <img align="left" alt="iissh.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> 
 <img align="left" alt="issh | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> 
