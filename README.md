@@ -24,7 +24,7 @@
 
 ### Connect with me:
 <img align="left" alt="iissh.ca" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> 
-<img align="left" alt="issh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="issh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[![LinkedIn](https://www.linkedin.com/in/isshana-mohanakumar-470327179/)
 <br/>
 
 ### Languages and Tools:
