@@ -14,6 +14,11 @@
 - 🥅 2021 Goals: Start working on my video game and contribute more to Open Source projects.
 - ⚡ Fun fact: I love to play video games!
 
+### What I'm Currently Working On:
+- A Cyberpunk-themed platformer with Unity
+- A social-networking platformer that connects gamers together
+- TrendStop, an e-commerce sneaker re-selling website
+
 ### I'm Listening to 🎧
 <img src="https://now-playing-spotify-ecru.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />
 
@@ -21,10 +26,9 @@
 [![iissh's github stats](https://github-readme-stats-sage-kappa.vercel.app/api?username=iissh)](https://github.com/iissh/github-readme-stats) 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iissh&layout=compact)](https://github.com/iissha/github-readme-stats)
 
-
 ### Connect with me:
 <img align="left" alt="iissh.ca" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> (https://iissh.ca/)
-<br/><br/>
+<br/>
 <img align="left" alt="issh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> (https://www.linkedin.com/in/isshana-mohanakumar-470327179/)
 <br/>
 
