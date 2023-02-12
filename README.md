@@ -5,13 +5,13 @@
 ### 🌸 Hi there, I'm Isshana 🌸
 
 ### About Me
-- 💻 Web and Software Developer
+- 💻 Software Developer
 - 🎓 Studying Computer Science at The University of Waterloo (class 2025)
 
 ### What I'm Up To
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other like-minded developers
-- 🥅 2021 Goals: Start working on my video game and contribute more to Open Source projects.
+- 🥅 2023 Goals: Start working on my video game and contribute more to Open Source projects.
 - ⚡ Fun fact: I love to play video games and create software that helps gamers out!
 
 ### What I'm Currently Working On:
