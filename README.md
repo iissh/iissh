@@ -10,14 +10,14 @@
 
 ### What I'm Up To
 - 🌱 I’m currently learning everything 
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other like-minded developers
 - 🥅 2021 Goals: Start working on my video game and contribute more to Open Source projects.
-- ⚡ Fun fact: I love to play video games!
+- ⚡ Fun fact: I love to play video games and create software that helps gamers out!
 
 ### What I'm Currently Working On:
-- A Cyberpunk-themed platformer with Unity
-- A social-networking platformer that connects gamers together
-- TrendStop, an e-commerce sneaker re-selling website
+- A fullstack web application that displays data about a user's game profiles.
+- A discord bot that helps users passionate about fitness keep track of their goals.
+- A new version of my personal website
 
 ### I'm Listening to 🎧
 <img src="https://now-playing-spotify-ecru.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />
