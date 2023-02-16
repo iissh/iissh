@@ -17,10 +17,10 @@
 ### What I'm Currently Working On:
 - A fullstack web application that displays data about a user's game profiles.
 - A discord bot that helps users passionate about fitness keep track of their goals.
-- A new version of my personal website
+- A new version of my personal website.
 
 ### I'm Listening to 🎧
-<img src="https://now-playing-spotify-ecru.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />
+<img src="https://now-playing-spotify-ecru.vercel.app/api/spotify" alt="issh Spotify Playing" width="350" />
 
 ### GitHub Stats:
 [![iissh's github stats](https://github-readme-stats-sage-kappa.vercel.app/api?username=iissh)](https://github.com/iissh/github-readme-stats) 
