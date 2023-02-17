@@ -29,7 +29,7 @@
 ### Connect with me:
 <img align="left" alt="iissh.ca" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> (https://iissh.ca/)
 <br/><br/>
-<img align="left" alt="issh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> (![image](https://user-images.githubusercontent.com/46656303/219756502-3d03be4a-dcb0-4c05-a110-92f982483798.png)
+<img align="left" alt="issh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> (![image](https://www.linkedin.com/in/iissh/)
 <br/>
 
 ### Languages and Tools:
